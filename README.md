@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-crypto-liquidations-mcp-badge.png)](https://mseep.ai/app/kukapay-crypto-liquidations-mcp)
+
 # Crypto Liquidations MCP
 [![smithery badge](https://smithery.ai/badge/@kukapay/crypto-liquidations-mcp)](https://smithery.ai/server/@kukapay/crypto-liquidations-mcp)
 
